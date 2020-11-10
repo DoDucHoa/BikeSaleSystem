@@ -28,9 +28,6 @@ namespace BikeSaleSystemUI
         {
             string username = txtUsernameSU.Text;
             string password = txtPasswordSU.Text;
-            
-            
-            
             string re_password = txtReEnterPW.Text;
             string fullname = txtFullName.Text;
 
