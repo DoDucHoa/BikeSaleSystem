@@ -26,6 +26,7 @@ namespace BikeSaleSystemUI
 
         private void btnSignUp_Click(object sender, EventArgs e)
         {
+            // set variable string
             string username = txtUsernameSU.Text;
             string password = txtPasswordSU.Text;
             string re_password = txtReEnterPW.Text;
